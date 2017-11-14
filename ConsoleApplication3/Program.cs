@@ -12,7 +12,6 @@ namespace ConsoleApplication3
         static void Main(string[] args)
         {
             int file = 0;
-            
             Console.WriteLine("Input a # 1-8");
             int input = Convert.ToInt32(Console.ReadLine());
             switch (input)
